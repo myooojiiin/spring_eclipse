@@ -1,5 +1,5 @@
 # Compiled class file
-*.class
+# *.class
 
 # Log file
 *.log
@@ -12,7 +12,7 @@
 
 # Package Files #
 # *.jar
-*.war
+# *.war
 *.nar
 *.ear
 *.zip
